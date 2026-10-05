@@ -1,0 +1,8 @@
+node_modules
+dist
+coverage
+*.sqlite
+!kanban.sqlite
+*.tsbuildinfo
+.env
+.git
